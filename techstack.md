@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuliroth/angular.js is built on the following main stack:
+
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -19,11 +20,13 @@ yuliroth/angular.js is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuliroth/angular.js is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -41,14 +44,15 @@ yuliroth/angular.js is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuliroth/angular.js](https://github.com/yuliroth/angular.js)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|63<br/>Tools used|11/22/23 <br/>Report generated|
+|63<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -281,7 +285,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v0.2.10|02/24/15|Julie Ralph |MIT|N/A|
 |[karma-script-launcher](https://www.npmjs.com/karma-script-launcher)|v0.1.0|02/24/15|Julie Ralph |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|01/30/15|Peter Bacon Darwin |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.3|09/08/14|Peter Bacon Darwin |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2015-8854](https://github.com/advisories/GHSA-hjcp-j389-59ff) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2016-10531](https://github.com/advisories/GHSA-vfvf-mqq8-rwqc) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.3|09/08/14|Peter Bacon Darwin |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2015-8854](https://github.com/advisories/GHSA-hjcp-j389-59ff) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2016-10531](https://github.com/advisories/GHSA-vfvf-mqq8-rwqc) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)|
 |[promises-aplus-tests](https://www.npmjs.com/promises-aplus-tests)|v2.1.0|10/11/14|Michał Gołębiowski |WTFPL|N/A|
 |[q](https://www.npmjs.com/q)|v0.9.7|05/23/12|Igor Minar |MIT|N/A|
 |[q-io](https://www.npmjs.com/q-io)|v1.10.9|09/08/14|Peter Bacon Darwin |MIT|N/A|
