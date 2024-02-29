@@ -2,7 +2,7 @@ repo_name: yuliroth/angular.js
 report_id: cccf1f6badc4b1064e8ac0ae3c5f056a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:36:15+00:00'
+timestamp: '2024-02-29T18:52:15+00:00'
 requested_by: matsko
 provider: github
 branch: master
@@ -760,18 +760,18 @@ tools:
   last_updated_by: Peter Bacon Darwin
   last_updated_on: 2014-09-08 08:50:47.000000000 Z
   vulnerabilities:
-  - name: Inefficient Regular Expression Complexity in marked
-    cve_id: CVE-2022-21681
-    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
-    detected_date: Jan 15
-    severity: high
-    first_patched: 4.0.10
   - name: Regular Expression Denial of Service in marked
     cve_id: CVE-2017-16114
     cve_url: https://github.com/advisories/GHSA-x5pg-88wf-qq4p
     detected_date: Aug 22
     severity: high
     first_patched: 0.3.9
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
   - name: Regular Expression Denial of Service in marked
     cve_id: CVE-2015-8854
     cve_url: https://github.com/advisories/GHSA-hjcp-j389-59ff
