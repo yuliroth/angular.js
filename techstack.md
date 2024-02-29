@@ -3,21 +3,21 @@
 ## Tech Stack
 yuliroth/angular.js is built on the following main stack:
 
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [JSHint](http://www.jshint.com/about/) – Code Review
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Karma](http://karma-runner.github.io/) – Browser Testing
 - [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- [JSHint](http://www.jshint.com/about/) – Code Review
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Google Code Prettify](https://github.com/google/code-prettify) – Javascript Utilities & Libraries
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- [Google Code Prettify](https://github.com/google/code-prettify) – Javascript Utilities & Libraries
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 yuliroth/angular.js is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3626/no-img-open-source.png' alt='Google Code Prettify'/> [Google Code Prettify](https://github.com/google/code-prettify) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- <img width='25' height='25' src='https://img.stackshare.io/service/3626/no-img-open-source.png' alt='Google Code Prettify'/> [Google Code Prettify](https://github.com/google/code-prettify) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuliroth/angular.js](https://github.com/yuliroth/angular.js)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|63<br/>Tools used|01/05/24 <br/>Report generated|
+|63<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -285,7 +285,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v0.2.10|02/24/15|Julie Ralph |MIT|N/A|
 |[karma-script-launcher](https://www.npmjs.com/karma-script-launcher)|v0.1.0|02/24/15|Julie Ralph |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|01/30/15|Peter Bacon Darwin |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.3|09/08/14|Peter Bacon Darwin |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2015-8854](https://github.com/advisories/GHSA-hjcp-j389-59ff) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2016-10531](https://github.com/advisories/GHSA-vfvf-mqq8-rwqc) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.3|09/08/14|Peter Bacon Darwin |MIT|[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2015-8854](https://github.com/advisories/GHSA-hjcp-j389-59ff) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2016-10531](https://github.com/advisories/GHSA-vfvf-mqq8-rwqc) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)|
 |[promises-aplus-tests](https://www.npmjs.com/promises-aplus-tests)|v2.1.0|10/11/14|Michał Gołębiowski |WTFPL|N/A|
 |[q](https://www.npmjs.com/q)|v0.9.7|05/23/12|Igor Minar |MIT|N/A|
 |[q-io](https://www.npmjs.com/q-io)|v1.10.9|09/08/14|Peter Bacon Darwin |MIT|N/A|
